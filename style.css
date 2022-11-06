@@ -1,0 +1,39 @@
+:root {
+  --dark: #101010;
+  --bright: #FAFAFF;
+}
+
+body {
+  /* border: 3px solid red;
+  font-family: "Montserrat", sans-serif;
+  background-color: var(--dark);
+  color: var(--bright); */
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* align-items: center; */
+  height: 95vh;
+}
+
+/* body h1 {
+  font-size: 266px;
+  margin: 20px;
+  padding: 20px;
+}
+
+body a {
+  border: 3px solid var(--bright);
+  border-radius: 6px;
+  background-color: var(--dark);
+  color: var(--bright);
+  font-weight: bold;
+  text-decoration: none;
+  padding: 5px 10px;
+  margin: 10px;
+}
+
+body a:hover {
+  border: 3px solid var(--dark);
+  background-color: var(--bright);
+  color: var(--dark);
+} */
