@@ -30,9 +30,12 @@ body a {
 .britney:hover {
   color: yellow;
   cursor: url(cursor/britney.cur) 4 12, wait;
+  background-color: black;
+  padding: 2px;
+  width: fit-content;
 }
 
 .aaliyah:hover {
-  color:cyan;
+  color: cyan;
   cursor: url(cursor/aaliyah.cur) 4 12, wait;
 }
