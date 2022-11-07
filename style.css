@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Butcherman&family=Creepster&family=Lovers+Quarrel&family=Rubik+Bubbles&display=swap');
+
 body {
   display: flex;
   flex-direction: column;
   height: 95vh;
+  cursor: url(cursor/hindu.cur) 12 24, auto;
 }
 
 body h1 {
@@ -13,29 +16,44 @@ body a {
   border: 3px solid var(--bright);
   border-radius: 4px;
   text-decoration: none;
-  padding: 0px;
-  margin: 2px;
+  padding: 6px;
+  margin: 0px;
 }
 
 .parishilton:hover {
   color: magenta;
   cursor: url(cursor/parishiton.cur) 4 12, wait;
+  background-color: aqua;
+  padding: 2px;
+  font-family: "Creepster", cursive;
+  font-size: 60px;
+  /* width: fit-content; */
 }
 
 .rihanna:hover {
   color: lime;
   cursor: url(cursor/rihanna.cur) 4 12, wait;
+  background-color: blueviolet;
+  padding: 2px;
+  font-family: 'Rubik Bubbles', cursive;
+  font-size: 40px;
 }
 
 .britney:hover {
   color: yellow;
   cursor: url(cursor/britney.cur) 4 12, wait;
-  background-color: black;
+  background-color: magenta;
   padding: 2px;
-  width: fit-content;
+  font-size: 50px;
+  font-family: 'Butcherman', cursive;
+  /* width: fit-content; */
 }
 
 .aaliyah:hover {
   color: cyan;
   cursor: url(cursor/aaliyah.cur) 4 12, wait;
+  background-color: yellow;
+  padding: 2px;
+  font-size: 80px;
+  font-family: 'Lovers Quarrel', cursive;
 }
