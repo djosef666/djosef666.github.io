@@ -24,7 +24,6 @@ body a {
   color: magenta;
   cursor: url(cursor/parishiton.cur) 4 12, wait;
   background-color: aqua;
-  padding: 2px;
   font-family: "Creepster", cursive;
   font-size: 60px;
   /* width: fit-content; */
@@ -34,7 +33,6 @@ body a {
   color: lime;
   cursor: url(cursor/rihanna.cur) 4 12, wait;
   background-color: blueviolet;
-  padding: 2px;
   font-family: 'Rubik Bubbles', cursive;
   font-size: 40px;
 }
@@ -43,7 +41,6 @@ body a {
   color: yellow;
   cursor: url(cursor/britney.cur) 4 12, wait;
   background-color: magenta;
-  padding: 2px;
   font-size: 50px;
   font-family: 'Butcherman', cursive;
   /* width: fit-content; */
@@ -53,7 +50,6 @@ body a {
   color: cyan;
   cursor: url(cursor/aaliyah.cur) 4 12, wait;
   background-color: yellow;
-  padding: 2px;
   font-size: 80px;
   font-family: 'Lovers Quarrel', cursive;
 }
