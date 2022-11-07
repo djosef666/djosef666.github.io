@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Butcherman&family=Creepster&family=Lovers+Quarrel&family=Rubik+Bubbles&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Butcherman&family=Creepster&family=Lovers+Quarrel&family=Nabla&family=Rubik+Bubbles&display=swap");
 
 body {
   display: flex;
@@ -33,7 +33,7 @@ body a {
   color: lime;
   cursor: url(cursor/rihanna.cur) 4 12, wait;
   background-color: blueviolet;
-  font-family: 'Rubik Bubbles', cursive;
+  font-family: "Rubik Bubbles", cursive;
   font-size: 40px;
 }
 
@@ -42,7 +42,7 @@ body a {
   cursor: url(cursor/britney.cur) 4 12, wait;
   background-color: magenta;
   font-size: 50px;
-  font-family: 'Butcherman', cursive;
+  font-family: "Butcherman", cursive;
   /* width: fit-content; */
 }
 
@@ -51,5 +51,13 @@ body a {
   cursor: url(cursor/aaliyah.cur) 4 12, wait;
   background-color: yellow;
   font-size: 80px;
-  font-family: 'Lovers Quarrel', cursive;
+  font-family: "Lovers Quarrel", cursive;
+}
+
+.beyonce:hover {
+  color: cyan;
+  cursor: url(cursor/beyonce.cur) 4 12, wait;
+  background-color: lawngreen;
+  font-size: 80px;
+  font-family: 'Nabla', cursive;
 }
