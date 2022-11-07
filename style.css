@@ -25,7 +25,7 @@ body a {
   cursor: url(cursor/parishiton.cur) 4 12, wait;
   background-color: aqua;
   font-family: "Creepster", cursive;
-  font-size: 60px;
+  font-size: 40px;
   /* width: fit-content; */
 }
 
@@ -58,7 +58,7 @@ body a {
   color: cyan;
   cursor: url(cursor/beyonce.cur) 4 12, wait;
   background-color: lawngreen;
-  font-size: 80px;
+  font-size: 60px;
   font-family: "Nabla", cursive;
 }
 
