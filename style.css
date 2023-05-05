@@ -20,6 +20,14 @@ body a {
   margin: 0px;
 }
 
+.aguilera:hover {
+  color: blueviolet;
+  cursor: url(cursor/aguilera.cur) 4 12, wait;
+  background-color: cyan;
+  font-size: 40px;
+  font-family: "Silkscreen", cursive;
+}
+
 .parishilton:hover {
   color: magenta;
   cursor: url(cursor/parishiton.cur) 4 12, wait;
