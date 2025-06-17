@@ -49,7 +49,7 @@ body a {
   color: yellow;
   cursor: url(cursor/britney.cur) 4 12, wait;
   background-color: magenta;
-  font-size: 40px;
+  font-size: 35px;
   font-family: "Butcherman", cursive;
   /* width: fit-content; */
 }
@@ -77,3 +77,4 @@ body a {
   font-size: 40px;
   font-family: "Silkscreen", cursive;
 }
+
