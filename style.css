@@ -49,7 +49,7 @@ body a {
   color: yellow;
   cursor: url(cursor/britney.cur) 4 12, wait;
   background-color: magenta;
-  font-size: 50px;
+  font-size: 40px;
   font-family: "Butcherman", cursive;
   /* width: fit-content; */
 }
@@ -58,7 +58,7 @@ body a {
   color: cyan;
   cursor: url(cursor/aaliyah.cur) 4 12, wait;
   background-color: yellow;
-  font-size: 80px;
+  font-size: 50px;
   font-family: "Lovers Quarrel", cursive;
 }
 
@@ -66,7 +66,7 @@ body a {
   color: cyan;
   cursor: url(cursor/beyonce.cur) 4 12, wait;
   background-color: lawngreen;
-  font-size: 60px;
+  font-size: 40px;
   font-family: "Nabla", cursive;
 }
 
